@@ -1,1 +1,2 @@
-<field name="audit.execve.a1"><img src=x onerror=alert(1)></field>
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert(document.domain)">
+</svg>
